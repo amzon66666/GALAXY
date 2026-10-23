@@ -1,0 +1,6 @@
+{
+  "name": "GALAXY | متجر جالاكسي لحسابات فالورانت",
+  "description": "متجر جالاكسي العراقي المعتمد لبيع وشراء حسابات فالورانت مع دعم طرق الدفع العراقية زين كاش وكي كارد والرافدين وآسيا سيل",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
